@@ -1,4 +1,4 @@
-# Git-session
+# This file will help to understand how I pushed code to github from my local system with steps wise and along with commands which I used I hope this will help a lot
 # Git-session
 Step.1:Open your Git Hub account and create repository with name which you want. $ this symbol indicates the command staring and ending not include in command 
 
