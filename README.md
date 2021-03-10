@@ -2,7 +2,7 @@
 # Git-session
 Step.1:Open your Git Hub account and create repository with name which you want. $ this symbol indicates the command staring and ending not include in command 
 
-Step.2:Open your Git Bash Command Prompt and Give command As ls it will show files which are in default directory.
+Step.2:Open your Git Bash Command Prompt and Give command As  $ ls $ it will show files which are in default directory.
 
 Step.3:Give command As $ cd $ and give path of directory in "" where the code is present.Now control goes to the path which you gave.
 
