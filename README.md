@@ -17,3 +17,4 @@ Step.7:Then give command As $ git add . $ this will add all file of path to push
 Step.8:Then give command As $ git commit -m "write regarding your push" $ 
 
 Step.9: Then give command As $ git push origin master$ in master place you can provide branch name which you want.
+ Completed
